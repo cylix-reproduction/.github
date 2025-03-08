@@ -1,4 +1,4 @@
-# Cylix's Reproductions of Papers
+# Cylix's Reproduction of Papers
 ![status](https://img.shields.io/badge/status-work_in_progress-green?style=flat-square)
 ![build system](https://img.shields.io/badge/package_manager-uv-DE5FE9?style=flat-square)
 
